@@ -55,10 +55,25 @@ Build a system that can:
   - Hallucination-resistant responses  
   - Query routing to appropriate agentic pipelines  
 
-#### **4. Future Vision (Planned + Explored)**
-- Investigated **Knowledge Graph** tooling (Stardog, Neo4j)  
-- Planned mapping for speaker → topic → industry → company → trend → scenario  
-- Prepared architecture for **Agentic Graph RAG** for high-precision reasoning  
+### **4. Future Vision**
+
+#### **Knowledge Graph (Stardog / Neo4j):**
+- Represent conferences, speakers, companies, topics, industries as nodes
+
+#### **Agentic Graph RAG:**
+- Retrieval from graph instead of documents → zero hallucination
+
+#### **Strategic Insight Engine:**
+From scraped conferences extract:
+- Drivers of change  
+- Industry trends  
+- Competitor moves  
+- Hot emerging topics  
+- Influential speakers  
+- Regulatory themes  
+- Future-relevant indicators  
+
+This becomes a key input to Mind-Alliance’s scenario planning platform.
 
 ---
 
