@@ -1,4 +1,4 @@
-# Global-Conference-Intelligence-System---MAS
+# Global-Conference-Intelligence-System -- Mind Alliance Systems
 # 📊 Global Conference Intelligence System  
 ### **Mind-Alliance Systems — Internship Project (2025)**  
 **Automated Global Conference Scraper • Agentic Pipelines • n8n Backend • Vibe-Coded Frontend (Replit) • Future: Knowledge Graph + Agentic Graph RAG**
