@@ -110,5 +110,4 @@ During my 6 months at Mind-Alliance Systems, I:
 
 ---
 
-## 🧩 Recommended Repository Structure  
 
